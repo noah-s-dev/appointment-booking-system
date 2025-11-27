@@ -93,7 +93,7 @@ appointment-booking-system/
 1. **Clone or Download the Project**
    ```bash
    # If using git
-   git clone [repository-url]
+   git clone https://github.com/noah-s-dev/appointment-booking-system.git
    # Or download and extract the ZIP file
    ```
 

@@ -13,7 +13,7 @@ define('DB_CHARSET', 'utf8mb4');
 
 // Application configuration
 define('APP_NAME', 'Appointment Booking System');
-define('APP_URL', 'http://localhost');
+define('APP_URL', 'http://localhost/appointment-booking-system');
 define('ADMIN_EMAIL', 'admin@appointmentbooking.com');
 
 // Security settings
